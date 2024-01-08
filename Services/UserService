@@ -1,0 +1,13 @@
+public class UserService
+{
+    private readonly IUserRepository _userRepository;
+    private readonly IJwtService _jwtService;
+    private readonly IPostService _postService;
+
+    public UserService(IUserRepository userRepository, IJwtService jwtService, IPostService postService)
+    {
+        _userRepository = userRepository;
+        _jwtService = jwtService;
+        _postService = postService;
+    }
+}
