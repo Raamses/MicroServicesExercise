@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/rama/UserService/wwwroot/Swashbuckle.AspNetCore.SwaggerUI.dll",
+      "PackagePath": "staticwebassets/Swashbuckle.AspNetCore.SwaggerUI.dll"
+    },
+    {
+      "Id": "/Users/rama/UserService/wwwroot/Swashbuckle.AspNetCore.SwaggerUI.pdb",
+      "PackagePath": "staticwebassets/Swashbuckle.AspNetCore.SwaggerUI.pdb"
+    },
+    {
+      "Id": "/Users/rama/UserService/wwwroot/Swashbuckle.AspNetCore.SwaggerUI.xml",
+      "PackagePath": "staticwebassets/Swashbuckle.AspNetCore.SwaggerUI.xml"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.UserService.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.UserService.props",
+      "PackagePath": "build\\UserService.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.UserService.props",
+      "PackagePath": "buildMultiTargeting\\UserService.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.UserService.props",
+      "PackagePath": "buildTransitive\\UserService.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
