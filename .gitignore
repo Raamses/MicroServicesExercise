@@ -1,0 +1,21 @@
+# Compiled source code
+bin/
+obj/
+
+# NuGet package directories
+packages/
+
+# Build outputs
+*.exe
+*.dll
+*.pdb
+
+# Other common exclusions
+*.log
+*.cache
+*.user
+*.vs
+
+# IDE-specific files
+.vscode/
+.idea/
